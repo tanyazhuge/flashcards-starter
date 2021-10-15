@@ -8,7 +8,7 @@
 #### Description:
 The Flashcards application will prompt user for each question. The user will have the opportunity to select an answer, and will be told if the user guessed correctly or not. When all questions are asked, users would be told what was percentage of the questions that they guessed correctly.
 
-![flash cards Gif](https://media.giphy.com/media/1zkb1q58eTiTH6D7wc/giphy.gif)
+![Flashcards Gif](https://media.giphy.com/media/DmL1fKa48cLuBmm5qK/giphy.gif)
 
 #### Technologies Used:
 - JavaScript
@@ -19,15 +19,11 @@ The Flashcards application will prompt user for each question. The user will hav
 ## Setup
 1. Clone down the forked repo from GitHub.  
 ```bash
-git clone [remote-address] [what you want to name the repo]
+git clone [remote-address]
 ```
-2. Cloned the repo, change into the directory and install library dependencies. Run:
-
-```bash
-npm install
-```
-3. Playing the game, you need to go to terminal and run:
+2. Cloned the repo, change into the directory and run:
 
 ```bash
 node index.js
 ```
+3. Playing the game, you use up and down error to navigate the answers and hit return to select the answer.
